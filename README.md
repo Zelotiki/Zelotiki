@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-MSSQL-f1faee?style=for-the-badge&logo=MSSQL)
 ![SQL](https://img.shields.io/badge/-Postgre_SQL-f1faee?style=for-the-badge&logo=postgreSQL)
 ![DAX](https://img.shields.io/badge/-DAX-ffd500?style=for-the-badge&logo=DAX)
-![MDX](https://img.shields.io/badge/-MDX-f1faee?style=for-the-badge&logo=MDX)
+![MDX](https://img.shields.io/badge/-MDX-69b5cc?style=for-the-badge&logo=MDX)
 ![M](https://img.shields.io/badge/-M-f1faee?style=for-the-badge&logo=M)
 ![PowerQuery](https://img.shields.io/badge/-PowerQuery-f1faee?style=for-the-badge&logo=PowerQuery)
 
@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 ![Dash](https://img.shields.io/badge/-Dash-f1faee?style=for-the-badge&logo=Dash)
 ![Redash](https://img.shields.io/badge/-Redash-f1faee?style=for-the-badge&logo=Redash)
 ![Docker](https://img.shields.io/badge/-Docker-f1faee?style=for-the-badge&logo=docker)
-![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-f1faee?style=for-the-badge&logo=apacheairflow)
+![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-69b5cc?style=for-the-badge&logo=apacheairflow)
 
 #### Follow Me \ Связаться со мной
-[![Gmail](https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=Gmail)](mailto:zelot93@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram)](https://t.me/vadimq)
+[![Gmail](https://img.shields.io/badge/-mail-f1faee?style=for-the-badge&logo=Gmail)](mailto:zelot93@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-f1faee?style=for-the-badge&logo=Telegram)](https://t.me/vadimq)
 [![Vk](https://img.shields.io/badge/-Vk-69b5cc?style=for-the-badge&logo=Vk)](https://vk.com/zelot93)
 
 
