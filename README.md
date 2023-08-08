@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![Excel](https://img.shields.io/badge/-Excel-2b9348?style=for-the-badge&logo=Excel)
 ![Dash](https://img.shields.io/badge/-Dash-f1faee?style=for-the-badge&logo=Dash)
 ![Redash](https://img.shields.io/badge/-Redash-f1faee?style=for-the-badge&logo=Redash)
+![Git](https://img.shields.io/badge/-Git-f1faee?style=for-the-badge&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-f1faee?style=for-the-badge&logo=docker)
 ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-69b5cc?style=for-the-badge&logo=apacheairflow)
 
