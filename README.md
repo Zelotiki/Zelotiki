@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 #### Tools \ Инструменты
 
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-f1faee?style=for-the-badge&logo=jupyter)
-![Tableau](https://img.shields.io/badge/-Tableau-f1faee?style=for-the-badge&logo=tableau)
 ![PowerBI](https://img.shields.io/badge/-Power_BI-f1faee?style=for-the-badge&logo=PowerBI)
 ![Tableau](https://img.shields.io/badge/-Tableau-f1faee?style=for-the-badge&logo=tableau)
 ![DataLens](https://img.shields.io/badge/-DataLens-f1faee?style=for-the-badge&logo=DataLens)
