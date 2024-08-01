@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/-Python-f1faee?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-MSSQL-f1faee?style=for-the-badge&logo=MSSQL)
 ![SQL](https://img.shields.io/badge/-Postgre_SQL-f1faee?style=for-the-badge&logo=postgreSQL)
+![SQL](https://img.shields.io/badge/-ClickHouse-f1faee?style=for-the-badge&logo=ClickHouse)
 ![DAX](https://img.shields.io/badge/-DAX-ffd500?style=for-the-badge&logo=DAX)
 ![MDX](https://img.shields.io/badge/-MDX-69b5cc?style=for-the-badge&logo=MDX)
 ![M](https://img.shields.io/badge/-M-f1faee?style=for-the-badge&logo=M)
