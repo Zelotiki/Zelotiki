@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-mail-f1faee?style=for-the-badge&logo=Gmail)](mailto:zelot93@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-f1faee?style=for-the-badge&logo=Telegram)](https://t.me/vadimq)
 [![Vk](https://img.shields.io/badge/-Vk-69b5cc?style=for-the-badge&logo=Vk)](https://vk.com/zelot93)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-69b5cc?style=for-the-badge&logo=WhatsApp)](+79994595001)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-69b5cc?style=for-the-badge&logo=WhatsApp)](https://wa.me/79994595001)
 
 
