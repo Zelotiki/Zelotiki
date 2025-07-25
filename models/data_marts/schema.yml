@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: example_data_marts_model
+    description: "Пример модели для схемы data_marts"
+    columns:
+      - name: id
+        description: "Уникальный идентификатор"
+        tests:
+          - unique
+          - not_null
