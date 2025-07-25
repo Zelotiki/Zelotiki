@@ -1,0 +1,24 @@
+clickhouse_profile:
+  target: data_marts
+  outputs:
+    data_marts:
+      type: clickhouse
+      driver: native
+      schema: data_marts
+      database: data_marts
+      #host: "clickhouse-1.commercecollector.svc.cluster.local"
+      host: "159.223.230.212" ## Для локального запуска
+      user: "marketinguser"
+      password: "5hizJi/06Zm5PuYTJsegWKlZCPQ="
+      port: 9000
+    
+    marketing:
+      type: clickhouse
+      driver: native
+      schema: marketing
+      database: marketing
+      #host: "clickhouse-1.commercecollector.svc.cluster.local"
+      host: "159.223.230.212" ## Для локального запуска
+      user: "marketinguser"
+      password: "5hizJi/06Zm5PuYTJsegWKlZCPQ="
+      port: 9000

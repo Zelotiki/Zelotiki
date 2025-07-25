@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: example_marketing_model
+    description: "Пример модели для схемы marketing"
+    columns:
+      - name: id
+        description: "Уникальный идентификатор"
+        tests:
+          - unique
+          - not_null
+      - name: campaign_name
+        description: "Название маркетинговой кампании"
